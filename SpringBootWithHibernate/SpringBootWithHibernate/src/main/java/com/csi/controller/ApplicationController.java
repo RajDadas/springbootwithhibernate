@@ -19,5 +19,12 @@ public class ApplicationController {
         return " Getting Data";
     }
 
+    @GetMapping("/setdata")
+    public String setData(){
+
+        return "  Data";
+    }
+
+
 
 }
