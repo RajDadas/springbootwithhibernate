@@ -8,6 +8,7 @@
     <artifactId>SpringBootWithHibernate</artifactId>
     <version>1.0-SNAPSHOT</version>
      <packaging>war</packaging>
+           <name>app-1.0-SNAPSHOT</name>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
